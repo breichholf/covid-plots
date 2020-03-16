@@ -41,6 +41,7 @@ reports
 # Python stuff
 *.pyc
 *.eggs
+.ipynb_checkpoints
 build/*
 
 # Editor directories and files
@@ -76,3 +77,4 @@ Network Trash Folder
 Temporary Items
 .apdisk
 CHANGELOG.md
+.Rproj.user
